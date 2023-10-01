@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/lamviec/hoccode/C#/hey/hey/hey.csproj",
-      "projectName": "hey",
-      "projectPath": "/Volumes/lamviec/hoccode/C#/hey/hey/hey.csproj",
+      "projectUniqueName": "/Volumes/lamviec/hoccode/C#/parse/parse/parse.csproj",
+      "projectName": "parse",
+      "projectPath": "/Volumes/lamviec/hoccode/C#/parse/parse/parse.csproj",
       "packagesPath": "/Users/tuananh/.nuget/packages/",
-      "outputPath": "/Volumes/lamviec/hoccode/C#/hey/hey/obj/",
+      "outputPath": "/Volumes/lamviec/hoccode/C#/parse/parse/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tuananh/.nuget/NuGet/NuGet.Config"

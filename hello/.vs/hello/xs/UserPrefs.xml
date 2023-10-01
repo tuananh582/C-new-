@@ -1,25 +1,23 @@
-﻿<Properties StartupConfiguration="{0C7D2A1C-59E3-47B2-8DF5-DA1B4F3D98B2}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+﻿<Properties StartupConfiguration="{63E5F314-E4DF-4340-974F-9EE0CBF02D60}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="hello/Program.cs">
     <Files>
-      <File FileName="hello/Program.cs" Line="1" Column="1" />
+      <File FileName="hello/Program.cs" Line="4" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="hello" expanded="True">
-            <Node name="hello" expanded="True">
-              <Node name="Dependencies" expanded="True" selected="True" />
-            </Node>
+            <Node name="hello" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.hello PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
 </Properties>
