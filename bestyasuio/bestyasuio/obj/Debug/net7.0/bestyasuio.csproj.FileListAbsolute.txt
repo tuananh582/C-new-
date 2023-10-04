@@ -1,0 +1,15 @@
+/Volumes/lamviec/hoccode/C#/bestyasuio/bestyasuio/bin/Debug/net7.0/bestyasuio
+/Volumes/lamviec/hoccode/C#/bestyasuio/bestyasuio/bin/Debug/net7.0/bestyasuio.deps.json
+/Volumes/lamviec/hoccode/C#/bestyasuio/bestyasuio/bin/Debug/net7.0/bestyasuio.runtimeconfig.json
+/Volumes/lamviec/hoccode/C#/bestyasuio/bestyasuio/bin/Debug/net7.0/bestyasuio.dll
+/Volumes/lamviec/hoccode/C#/bestyasuio/bestyasuio/bin/Debug/net7.0/bestyasuio.pdb
+/Volumes/lamviec/hoccode/C#/bestyasuio/bestyasuio/obj/Debug/net7.0/bestyasuio.csproj.AssemblyReference.cache
+/Volumes/lamviec/hoccode/C#/bestyasuio/bestyasuio/obj/Debug/net7.0/bestyasuio.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/lamviec/hoccode/C#/bestyasuio/bestyasuio/obj/Debug/net7.0/bestyasuio.AssemblyInfoInputs.cache
+/Volumes/lamviec/hoccode/C#/bestyasuio/bestyasuio/obj/Debug/net7.0/bestyasuio.AssemblyInfo.cs
+/Volumes/lamviec/hoccode/C#/bestyasuio/bestyasuio/obj/Debug/net7.0/bestyasuio.csproj.CoreCompileInputs.cache
+/Volumes/lamviec/hoccode/C#/bestyasuio/bestyasuio/obj/Debug/net7.0/bestyasuio.dll
+/Volumes/lamviec/hoccode/C#/bestyasuio/bestyasuio/obj/Debug/net7.0/refint/bestyasuio.dll
+/Volumes/lamviec/hoccode/C#/bestyasuio/bestyasuio/obj/Debug/net7.0/bestyasuio.pdb
+/Volumes/lamviec/hoccode/C#/bestyasuio/bestyasuio/obj/Debug/net7.0/bestyasuio.genruntimeconfig.cache
+/Volumes/lamviec/hoccode/C#/bestyasuio/bestyasuio/obj/Debug/net7.0/ref/bestyasuio.dll

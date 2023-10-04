@@ -1,0 +1,15 @@
+/Volumes/lamviec/hoccode/C#/parse/parse/bin/Debug/net7.0/parse
+/Volumes/lamviec/hoccode/C#/parse/parse/bin/Debug/net7.0/parse.deps.json
+/Volumes/lamviec/hoccode/C#/parse/parse/bin/Debug/net7.0/parse.runtimeconfig.json
+/Volumes/lamviec/hoccode/C#/parse/parse/bin/Debug/net7.0/parse.dll
+/Volumes/lamviec/hoccode/C#/parse/parse/bin/Debug/net7.0/parse.pdb
+/Volumes/lamviec/hoccode/C#/parse/parse/obj/Debug/net7.0/parse.csproj.AssemblyReference.cache
+/Volumes/lamviec/hoccode/C#/parse/parse/obj/Debug/net7.0/parse.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/lamviec/hoccode/C#/parse/parse/obj/Debug/net7.0/parse.AssemblyInfoInputs.cache
+/Volumes/lamviec/hoccode/C#/parse/parse/obj/Debug/net7.0/parse.AssemblyInfo.cs
+/Volumes/lamviec/hoccode/C#/parse/parse/obj/Debug/net7.0/parse.csproj.CoreCompileInputs.cache
+/Volumes/lamviec/hoccode/C#/parse/parse/obj/Debug/net7.0/parse.dll
+/Volumes/lamviec/hoccode/C#/parse/parse/obj/Debug/net7.0/refint/parse.dll
+/Volumes/lamviec/hoccode/C#/parse/parse/obj/Debug/net7.0/parse.pdb
+/Volumes/lamviec/hoccode/C#/parse/parse/obj/Debug/net7.0/parse.genruntimeconfig.cache
+/Volumes/lamviec/hoccode/C#/parse/parse/obj/Debug/net7.0/ref/parse.dll

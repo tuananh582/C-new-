@@ -38,6 +38,16 @@ namespace parse
             //special charaters: can not console \ in order to fix that we using double backslashs \\
             string s1 = "this is a \"string\" with a slash \\ and a colon: ";
             Console.WriteLine(s1);
+            string userinput;
+            int a;
+            Console.WriteLine("Enter a value");
+            userinput = Console.ReadLine();
+            //a = Convert.ToInt32(userinput);
+            a = Int32.Parse(userinput);
+            Console.WriteLine($"you enter {a}");
+
+
+          
         }
     }
 

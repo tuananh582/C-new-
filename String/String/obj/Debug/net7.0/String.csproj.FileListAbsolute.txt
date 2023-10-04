@@ -1,0 +1,15 @@
+/Volumes/lamviec/hoccode/C#/String/String/bin/Debug/net7.0/String
+/Volumes/lamviec/hoccode/C#/String/String/bin/Debug/net7.0/String.deps.json
+/Volumes/lamviec/hoccode/C#/String/String/bin/Debug/net7.0/String.runtimeconfig.json
+/Volumes/lamviec/hoccode/C#/String/String/bin/Debug/net7.0/String.dll
+/Volumes/lamviec/hoccode/C#/String/String/bin/Debug/net7.0/String.pdb
+/Volumes/lamviec/hoccode/C#/String/String/obj/Debug/net7.0/String.csproj.AssemblyReference.cache
+/Volumes/lamviec/hoccode/C#/String/String/obj/Debug/net7.0/String.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/lamviec/hoccode/C#/String/String/obj/Debug/net7.0/String.AssemblyInfoInputs.cache
+/Volumes/lamviec/hoccode/C#/String/String/obj/Debug/net7.0/String.AssemblyInfo.cs
+/Volumes/lamviec/hoccode/C#/String/String/obj/Debug/net7.0/String.csproj.CoreCompileInputs.cache
+/Volumes/lamviec/hoccode/C#/String/String/obj/Debug/net7.0/String.dll
+/Volumes/lamviec/hoccode/C#/String/String/obj/Debug/net7.0/refint/String.dll
+/Volumes/lamviec/hoccode/C#/String/String/obj/Debug/net7.0/String.pdb
+/Volumes/lamviec/hoccode/C#/String/String/obj/Debug/net7.0/String.genruntimeconfig.cache
+/Volumes/lamviec/hoccode/C#/String/String/obj/Debug/net7.0/ref/String.dll

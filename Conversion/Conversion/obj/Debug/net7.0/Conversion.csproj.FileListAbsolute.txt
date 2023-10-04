@@ -1,0 +1,15 @@
+/Volumes/lamviec/hoccode/C#/Conversion/Conversion/bin/Debug/net7.0/Conversion
+/Volumes/lamviec/hoccode/C#/Conversion/Conversion/bin/Debug/net7.0/Conversion.deps.json
+/Volumes/lamviec/hoccode/C#/Conversion/Conversion/bin/Debug/net7.0/Conversion.runtimeconfig.json
+/Volumes/lamviec/hoccode/C#/Conversion/Conversion/bin/Debug/net7.0/Conversion.dll
+/Volumes/lamviec/hoccode/C#/Conversion/Conversion/bin/Debug/net7.0/Conversion.pdb
+/Volumes/lamviec/hoccode/C#/Conversion/Conversion/obj/Debug/net7.0/Conversion.csproj.AssemblyReference.cache
+/Volumes/lamviec/hoccode/C#/Conversion/Conversion/obj/Debug/net7.0/Conversion.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/lamviec/hoccode/C#/Conversion/Conversion/obj/Debug/net7.0/Conversion.AssemblyInfoInputs.cache
+/Volumes/lamviec/hoccode/C#/Conversion/Conversion/obj/Debug/net7.0/Conversion.AssemblyInfo.cs
+/Volumes/lamviec/hoccode/C#/Conversion/Conversion/obj/Debug/net7.0/Conversion.csproj.CoreCompileInputs.cache
+/Volumes/lamviec/hoccode/C#/Conversion/Conversion/obj/Debug/net7.0/Conversion.dll
+/Volumes/lamviec/hoccode/C#/Conversion/Conversion/obj/Debug/net7.0/refint/Conversion.dll
+/Volumes/lamviec/hoccode/C#/Conversion/Conversion/obj/Debug/net7.0/Conversion.pdb
+/Volumes/lamviec/hoccode/C#/Conversion/Conversion/obj/Debug/net7.0/Conversion.genruntimeconfig.cache
+/Volumes/lamviec/hoccode/C#/Conversion/Conversion/obj/Debug/net7.0/ref/Conversion.dll
