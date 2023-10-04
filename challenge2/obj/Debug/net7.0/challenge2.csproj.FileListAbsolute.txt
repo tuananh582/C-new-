@@ -1,0 +1,14 @@
+/Volumes/lamviec/hoccode/C#/challenge2/bin/Debug/net7.0/challenge2
+/Volumes/lamviec/hoccode/C#/challenge2/bin/Debug/net7.0/challenge2.deps.json
+/Volumes/lamviec/hoccode/C#/challenge2/bin/Debug/net7.0/challenge2.runtimeconfig.json
+/Volumes/lamviec/hoccode/C#/challenge2/bin/Debug/net7.0/challenge2.dll
+/Volumes/lamviec/hoccode/C#/challenge2/bin/Debug/net7.0/challenge2.pdb
+/Volumes/lamviec/hoccode/C#/challenge2/obj/Debug/net7.0/challenge2.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/lamviec/hoccode/C#/challenge2/obj/Debug/net7.0/challenge2.AssemblyInfoInputs.cache
+/Volumes/lamviec/hoccode/C#/challenge2/obj/Debug/net7.0/challenge2.AssemblyInfo.cs
+/Volumes/lamviec/hoccode/C#/challenge2/obj/Debug/net7.0/challenge2.csproj.CoreCompileInputs.cache
+/Volumes/lamviec/hoccode/C#/challenge2/obj/Debug/net7.0/challenge2.dll
+/Volumes/lamviec/hoccode/C#/challenge2/obj/Debug/net7.0/refint/challenge2.dll
+/Volumes/lamviec/hoccode/C#/challenge2/obj/Debug/net7.0/challenge2.pdb
+/Volumes/lamviec/hoccode/C#/challenge2/obj/Debug/net7.0/challenge2.genruntimeconfig.cache
+/Volumes/lamviec/hoccode/C#/challenge2/obj/Debug/net7.0/ref/challenge2.dll

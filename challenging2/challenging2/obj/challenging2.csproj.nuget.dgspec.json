@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/lamviec/hoccode/C#/parse/parse/parse.csproj": {}
+    "/Volumes/lamviec/hoccode/C#/challenging2/challenging2/challenging2.csproj": {}
   },
   "projects": {
-    "/Volumes/lamviec/hoccode/C#/parse/parse/parse.csproj": {
+    "/Volumes/lamviec/hoccode/C#/challenging2/challenging2/challenging2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/lamviec/hoccode/C#/parse/parse/parse.csproj",
-        "projectName": "parse",
-        "projectPath": "/Volumes/lamviec/hoccode/C#/parse/parse/parse.csproj",
+        "projectUniqueName": "/Volumes/lamviec/hoccode/C#/challenging2/challenging2/challenging2.csproj",
+        "projectName": "challenging2",
+        "projectPath": "/Volumes/lamviec/hoccode/C#/challenging2/challenging2/challenging2.csproj",
         "packagesPath": "/Users/tuananh/.nuget/packages/",
-        "outputPath": "/Volumes/lamviec/hoccode/C#/parse/parse/obj/",
+        "outputPath": "/Volumes/lamviec/hoccode/C#/challenging2/challenging2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tuananh/.nuget/NuGet/NuGet.Config"

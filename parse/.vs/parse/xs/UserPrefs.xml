@@ -1,28 +1,25 @@
 ﻿<Properties StartupConfiguration="{BF04A913-2BD0-4825-90CB-E2E621809ED3}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="parse/Program.cs">
     <Files>
-      <File FileName="parse/Program.cs" Line="45" Column="1" />
+      <File FileName="parse/Program.cs" Line="6" Column="39" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="parse" expanded="True">
-            <Node name="parse" expanded="True" />
+            <Node name="parse" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
-        </State>
-      </Pad>
-      <Pad Id="ClassPad">
-        <State name="__root__">
-          <Node name="parse" expanded="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.parse PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.parse PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
-  <MultiItemStartupConfigurations />
 </Properties>

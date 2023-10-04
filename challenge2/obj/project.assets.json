@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/lamviec/hoccode/C#/parse/parse/parse.csproj",
-      "projectName": "parse",
-      "projectPath": "/Volumes/lamviec/hoccode/C#/parse/parse/parse.csproj",
+      "projectUniqueName": "/Volumes/lamviec/hoccode/C#/challenge2/challenge2.csproj",
+      "projectName": "challenge2",
+      "projectPath": "/Volumes/lamviec/hoccode/C#/challenge2/challenge2.csproj",
       "packagesPath": "/Users/tuananh/.nuget/packages/",
-      "outputPath": "/Volumes/lamviec/hoccode/C#/parse/parse/obj/",
+      "outputPath": "/Volumes/lamviec/hoccode/C#/challenge2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tuananh/.nuget/NuGet/NuGet.Config"
