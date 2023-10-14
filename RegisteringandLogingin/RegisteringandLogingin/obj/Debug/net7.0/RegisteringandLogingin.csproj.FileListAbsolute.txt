@@ -1,0 +1,14 @@
+/Volumes/lamviec/hoccode/C#/RegisteringandLogingin/RegisteringandLogingin/bin/Debug/net7.0/RegisteringandLogingin
+/Volumes/lamviec/hoccode/C#/RegisteringandLogingin/RegisteringandLogingin/bin/Debug/net7.0/RegisteringandLogingin.deps.json
+/Volumes/lamviec/hoccode/C#/RegisteringandLogingin/RegisteringandLogingin/bin/Debug/net7.0/RegisteringandLogingin.runtimeconfig.json
+/Volumes/lamviec/hoccode/C#/RegisteringandLogingin/RegisteringandLogingin/bin/Debug/net7.0/RegisteringandLogingin.dll
+/Volumes/lamviec/hoccode/C#/RegisteringandLogingin/RegisteringandLogingin/bin/Debug/net7.0/RegisteringandLogingin.pdb
+/Volumes/lamviec/hoccode/C#/RegisteringandLogingin/RegisteringandLogingin/obj/Debug/net7.0/RegisteringandLogingin.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/lamviec/hoccode/C#/RegisteringandLogingin/RegisteringandLogingin/obj/Debug/net7.0/RegisteringandLogingin.AssemblyInfoInputs.cache
+/Volumes/lamviec/hoccode/C#/RegisteringandLogingin/RegisteringandLogingin/obj/Debug/net7.0/RegisteringandLogingin.AssemblyInfo.cs
+/Volumes/lamviec/hoccode/C#/RegisteringandLogingin/RegisteringandLogingin/obj/Debug/net7.0/RegisteringandLogingin.csproj.CoreCompileInputs.cache
+/Volumes/lamviec/hoccode/C#/RegisteringandLogingin/RegisteringandLogingin/obj/Debug/net7.0/RegisteringandLogingin.dll
+/Volumes/lamviec/hoccode/C#/RegisteringandLogingin/RegisteringandLogingin/obj/Debug/net7.0/refint/RegisteringandLogingin.dll
+/Volumes/lamviec/hoccode/C#/RegisteringandLogingin/RegisteringandLogingin/obj/Debug/net7.0/RegisteringandLogingin.pdb
+/Volumes/lamviec/hoccode/C#/RegisteringandLogingin/RegisteringandLogingin/obj/Debug/net7.0/RegisteringandLogingin.genruntimeconfig.cache
+/Volumes/lamviec/hoccode/C#/RegisteringandLogingin/RegisteringandLogingin/obj/Debug/net7.0/ref/RegisteringandLogingin.dll

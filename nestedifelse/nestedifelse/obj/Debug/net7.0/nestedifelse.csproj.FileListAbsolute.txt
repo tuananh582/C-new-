@@ -1,0 +1,14 @@
+/Volumes/lamviec/hoccode/C#/nestedifelse/nestedifelse/bin/Debug/net7.0/nestedifelse
+/Volumes/lamviec/hoccode/C#/nestedifelse/nestedifelse/bin/Debug/net7.0/nestedifelse.deps.json
+/Volumes/lamviec/hoccode/C#/nestedifelse/nestedifelse/bin/Debug/net7.0/nestedifelse.runtimeconfig.json
+/Volumes/lamviec/hoccode/C#/nestedifelse/nestedifelse/bin/Debug/net7.0/nestedifelse.dll
+/Volumes/lamviec/hoccode/C#/nestedifelse/nestedifelse/bin/Debug/net7.0/nestedifelse.pdb
+/Volumes/lamviec/hoccode/C#/nestedifelse/nestedifelse/obj/Debug/net7.0/nestedifelse.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/lamviec/hoccode/C#/nestedifelse/nestedifelse/obj/Debug/net7.0/nestedifelse.AssemblyInfoInputs.cache
+/Volumes/lamviec/hoccode/C#/nestedifelse/nestedifelse/obj/Debug/net7.0/nestedifelse.AssemblyInfo.cs
+/Volumes/lamviec/hoccode/C#/nestedifelse/nestedifelse/obj/Debug/net7.0/nestedifelse.csproj.CoreCompileInputs.cache
+/Volumes/lamviec/hoccode/C#/nestedifelse/nestedifelse/obj/Debug/net7.0/nestedifelse.dll
+/Volumes/lamviec/hoccode/C#/nestedifelse/nestedifelse/obj/Debug/net7.0/refint/nestedifelse.dll
+/Volumes/lamviec/hoccode/C#/nestedifelse/nestedifelse/obj/Debug/net7.0/nestedifelse.pdb
+/Volumes/lamviec/hoccode/C#/nestedifelse/nestedifelse/obj/Debug/net7.0/nestedifelse.genruntimeconfig.cache
+/Volumes/lamviec/hoccode/C#/nestedifelse/nestedifelse/obj/Debug/net7.0/ref/nestedifelse.dll

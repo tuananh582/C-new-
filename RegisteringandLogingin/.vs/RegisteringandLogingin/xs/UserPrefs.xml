@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A91C5BB6-C3E3-494F-9593-A8C74BDBA0CD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RegisteringandLogingin/Program.cs">
+    <Files>
+      <File FileName="RegisteringandLogingin/Program.cs" Line="18" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RegisteringandLogingin PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

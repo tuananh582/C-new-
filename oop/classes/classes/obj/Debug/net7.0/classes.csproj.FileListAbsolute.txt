@@ -1,0 +1,14 @@
+/Volumes/lamviec/hoccode/C#/oop/classes/classes/bin/Debug/net7.0/classes
+/Volumes/lamviec/hoccode/C#/oop/classes/classes/bin/Debug/net7.0/classes.deps.json
+/Volumes/lamviec/hoccode/C#/oop/classes/classes/bin/Debug/net7.0/classes.runtimeconfig.json
+/Volumes/lamviec/hoccode/C#/oop/classes/classes/bin/Debug/net7.0/classes.dll
+/Volumes/lamviec/hoccode/C#/oop/classes/classes/bin/Debug/net7.0/classes.pdb
+/Volumes/lamviec/hoccode/C#/oop/classes/classes/obj/Debug/net7.0/classes.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/lamviec/hoccode/C#/oop/classes/classes/obj/Debug/net7.0/classes.AssemblyInfoInputs.cache
+/Volumes/lamviec/hoccode/C#/oop/classes/classes/obj/Debug/net7.0/classes.AssemblyInfo.cs
+/Volumes/lamviec/hoccode/C#/oop/classes/classes/obj/Debug/net7.0/classes.csproj.CoreCompileInputs.cache
+/Volumes/lamviec/hoccode/C#/oop/classes/classes/obj/Debug/net7.0/classes.dll
+/Volumes/lamviec/hoccode/C#/oop/classes/classes/obj/Debug/net7.0/refint/classes.dll
+/Volumes/lamviec/hoccode/C#/oop/classes/classes/obj/Debug/net7.0/classes.pdb
+/Volumes/lamviec/hoccode/C#/oop/classes/classes/obj/Debug/net7.0/classes.genruntimeconfig.cache
+/Volumes/lamviec/hoccode/C#/oop/classes/classes/obj/Debug/net7.0/ref/classes.dll

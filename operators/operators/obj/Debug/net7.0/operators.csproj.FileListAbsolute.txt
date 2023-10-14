@@ -1,0 +1,14 @@
+/Volumes/lamviec/hoccode/C#/operators/operators/bin/Debug/net7.0/operators
+/Volumes/lamviec/hoccode/C#/operators/operators/bin/Debug/net7.0/operators.deps.json
+/Volumes/lamviec/hoccode/C#/operators/operators/bin/Debug/net7.0/operators.runtimeconfig.json
+/Volumes/lamviec/hoccode/C#/operators/operators/bin/Debug/net7.0/operators.dll
+/Volumes/lamviec/hoccode/C#/operators/operators/bin/Debug/net7.0/operators.pdb
+/Volumes/lamviec/hoccode/C#/operators/operators/obj/Debug/net7.0/operators.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/lamviec/hoccode/C#/operators/operators/obj/Debug/net7.0/operators.AssemblyInfoInputs.cache
+/Volumes/lamviec/hoccode/C#/operators/operators/obj/Debug/net7.0/operators.AssemblyInfo.cs
+/Volumes/lamviec/hoccode/C#/operators/operators/obj/Debug/net7.0/operators.csproj.CoreCompileInputs.cache
+/Volumes/lamviec/hoccode/C#/operators/operators/obj/Debug/net7.0/operators.dll
+/Volumes/lamviec/hoccode/C#/operators/operators/obj/Debug/net7.0/refint/operators.dll
+/Volumes/lamviec/hoccode/C#/operators/operators/obj/Debug/net7.0/operators.pdb
+/Volumes/lamviec/hoccode/C#/operators/operators/obj/Debug/net7.0/operators.genruntimeconfig.cache
+/Volumes/lamviec/hoccode/C#/operators/operators/obj/Debug/net7.0/ref/operators.dll

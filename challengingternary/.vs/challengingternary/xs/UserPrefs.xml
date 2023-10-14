@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{BDE4F1F2-1B1D-4CD5-8FAF-74D6D0C9D108}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="challengingternary/Program.cs">
+    <Files>
+      <File FileName="challengingternary/Program.cs" Line="8" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.challengingternary PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

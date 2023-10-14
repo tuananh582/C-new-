@@ -1,0 +1,14 @@
+/Volumes/lamviec/hoccode/C#/input/input/bin/Debug/net7.0/input
+/Volumes/lamviec/hoccode/C#/input/input/bin/Debug/net7.0/input.deps.json
+/Volumes/lamviec/hoccode/C#/input/input/bin/Debug/net7.0/input.runtimeconfig.json
+/Volumes/lamviec/hoccode/C#/input/input/bin/Debug/net7.0/input.dll
+/Volumes/lamviec/hoccode/C#/input/input/bin/Debug/net7.0/input.pdb
+/Volumes/lamviec/hoccode/C#/input/input/obj/Debug/net7.0/input.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/lamviec/hoccode/C#/input/input/obj/Debug/net7.0/input.AssemblyInfoInputs.cache
+/Volumes/lamviec/hoccode/C#/input/input/obj/Debug/net7.0/input.AssemblyInfo.cs
+/Volumes/lamviec/hoccode/C#/input/input/obj/Debug/net7.0/input.csproj.CoreCompileInputs.cache
+/Volumes/lamviec/hoccode/C#/input/input/obj/Debug/net7.0/input.dll
+/Volumes/lamviec/hoccode/C#/input/input/obj/Debug/net7.0/refint/input.dll
+/Volumes/lamviec/hoccode/C#/input/input/obj/Debug/net7.0/input.pdb
+/Volumes/lamviec/hoccode/C#/input/input/obj/Debug/net7.0/input.genruntimeconfig.cache
+/Volumes/lamviec/hoccode/C#/input/input/obj/Debug/net7.0/ref/input.dll

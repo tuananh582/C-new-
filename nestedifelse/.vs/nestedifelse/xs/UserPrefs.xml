@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{86259CF5-E05F-4D76-837D-87F9BA69A662}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="nestedifelse/Program.cs">
+    <Files>
+      <File FileName="nestedifelse/Program.cs" Line="24" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.nestedifelse PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
