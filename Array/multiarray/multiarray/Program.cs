@@ -38,11 +38,12 @@ namespace multiarray
                 {"five","six" }
             };
             array2DString[1,1] = "chicken";
+            
             foreach(string s in array2DString)
             {
                 Console.WriteLine(s);
             }
-            //Console.WriteLine("{0}",array2DString);
+            int[,] array2D2 = { { 1, 2 }, { 3, 4 } };
             Console.WriteLine("Center value is {0}", array3D[1, 2,0]);
             Console.ReadKey();
         }

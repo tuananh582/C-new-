@@ -1,0 +1,14 @@
+/Volumes/lamviec/hoccode/C#/Array/nestedArray/nestedArray/bin/Debug/net7.0/nestedArray
+/Volumes/lamviec/hoccode/C#/Array/nestedArray/nestedArray/bin/Debug/net7.0/nestedArray.deps.json
+/Volumes/lamviec/hoccode/C#/Array/nestedArray/nestedArray/bin/Debug/net7.0/nestedArray.runtimeconfig.json
+/Volumes/lamviec/hoccode/C#/Array/nestedArray/nestedArray/bin/Debug/net7.0/nestedArray.dll
+/Volumes/lamviec/hoccode/C#/Array/nestedArray/nestedArray/bin/Debug/net7.0/nestedArray.pdb
+/Volumes/lamviec/hoccode/C#/Array/nestedArray/nestedArray/obj/Debug/net7.0/nestedArray.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/lamviec/hoccode/C#/Array/nestedArray/nestedArray/obj/Debug/net7.0/nestedArray.AssemblyInfoInputs.cache
+/Volumes/lamviec/hoccode/C#/Array/nestedArray/nestedArray/obj/Debug/net7.0/nestedArray.AssemblyInfo.cs
+/Volumes/lamviec/hoccode/C#/Array/nestedArray/nestedArray/obj/Debug/net7.0/nestedArray.csproj.CoreCompileInputs.cache
+/Volumes/lamviec/hoccode/C#/Array/nestedArray/nestedArray/obj/Debug/net7.0/nestedArray.dll
+/Volumes/lamviec/hoccode/C#/Array/nestedArray/nestedArray/obj/Debug/net7.0/refint/nestedArray.dll
+/Volumes/lamviec/hoccode/C#/Array/nestedArray/nestedArray/obj/Debug/net7.0/nestedArray.pdb
+/Volumes/lamviec/hoccode/C#/Array/nestedArray/nestedArray/obj/Debug/net7.0/nestedArray.genruntimeconfig.cache
+/Volumes/lamviec/hoccode/C#/Array/nestedArray/nestedArray/obj/Debug/net7.0/ref/nestedArray.dll
