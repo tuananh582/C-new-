@@ -1,4 +1,14 @@
 ﻿<Properties StartupConfiguration="{5BDE76BD-D16A-494E-B7ED-AF6BC08EA752}|Default">
-  <MonoDevelop.Ide.ItemProperties.nestedArray FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="nestedArray/Program.cs">
+    <Files>
+      <File FileName="nestedArray/Program.cs" Line="18" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.nestedArray PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>

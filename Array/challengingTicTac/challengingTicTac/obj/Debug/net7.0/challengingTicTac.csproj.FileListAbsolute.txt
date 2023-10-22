@@ -1,0 +1,14 @@
+/Volumes/lamviec/hoccode/C#/Array/challengingTicTac/challengingTicTac/bin/Debug/net7.0/challengingTicTac
+/Volumes/lamviec/hoccode/C#/Array/challengingTicTac/challengingTicTac/bin/Debug/net7.0/challengingTicTac.deps.json
+/Volumes/lamviec/hoccode/C#/Array/challengingTicTac/challengingTicTac/bin/Debug/net7.0/challengingTicTac.runtimeconfig.json
+/Volumes/lamviec/hoccode/C#/Array/challengingTicTac/challengingTicTac/bin/Debug/net7.0/challengingTicTac.dll
+/Volumes/lamviec/hoccode/C#/Array/challengingTicTac/challengingTicTac/bin/Debug/net7.0/challengingTicTac.pdb
+/Volumes/lamviec/hoccode/C#/Array/challengingTicTac/challengingTicTac/obj/Debug/net7.0/challengingTicTac.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/lamviec/hoccode/C#/Array/challengingTicTac/challengingTicTac/obj/Debug/net7.0/challengingTicTac.AssemblyInfoInputs.cache
+/Volumes/lamviec/hoccode/C#/Array/challengingTicTac/challengingTicTac/obj/Debug/net7.0/challengingTicTac.AssemblyInfo.cs
+/Volumes/lamviec/hoccode/C#/Array/challengingTicTac/challengingTicTac/obj/Debug/net7.0/challengingTicTac.csproj.CoreCompileInputs.cache
+/Volumes/lamviec/hoccode/C#/Array/challengingTicTac/challengingTicTac/obj/Debug/net7.0/challengingTicTac.dll
+/Volumes/lamviec/hoccode/C#/Array/challengingTicTac/challengingTicTac/obj/Debug/net7.0/refint/challengingTicTac.dll
+/Volumes/lamviec/hoccode/C#/Array/challengingTicTac/challengingTicTac/obj/Debug/net7.0/challengingTicTac.pdb
+/Volumes/lamviec/hoccode/C#/Array/challengingTicTac/challengingTicTac/obj/Debug/net7.0/challengingTicTac.genruntimeconfig.cache
+/Volumes/lamviec/hoccode/C#/Array/challengingTicTac/challengingTicTac/obj/Debug/net7.0/ref/challengingTicTac.dll
