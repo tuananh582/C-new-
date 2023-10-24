@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{DF98BCF8-30C5-4840-87E2-C8BCCA4E1AF1}|Default">
+﻿<Properties StartupConfiguration="{9F16AB56-CF4F-4C29-BCF9-F58700E89548}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="challengingTicTac/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Jagged/Program.cs">
     <Files>
-      <File FileName="challengingTicTac/Program.cs" Line="39" Column="33" />
+      <File FileName="Jagged/Program.cs" Line="18" Column="31" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Jagged PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.challengingTicTac PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

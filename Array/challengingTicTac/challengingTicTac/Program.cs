@@ -31,12 +31,12 @@ namespace challengingTicTac
                 if (player == 2)
                 {
                     player = 1;
-                    EnterXor0(player, input);
+                    EnterXor0('X', input);
                 }
                 else if (player == 1)
                 {
                     player = 2;
-                    EnterXor0(player, input);
+                    EnterXor0('O', input);
 
                 }
                 SetField();
@@ -165,18 +165,9 @@ namespace challengingTicTac
         }
 
 
-        public static void EnterXor0(int player, int input)
+        public static void EnterXor0(char playerSign, int input)
         {
-            char playerSign = ' ';
-            if (player == 1)
-            {
-                playerSign = 'X';
-            }
-            else if (player == 2)
-            {
-                playerSign = 'O';
-            }
-
+        
             switch (input)
             {
                 case 1:

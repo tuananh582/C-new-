@@ -1,0 +1,14 @@
+/Volumes/lamviec/hoccode/C#/Array/JaggedArray/Jagged/Jagged/bin/Debug/net7.0/Jagged
+/Volumes/lamviec/hoccode/C#/Array/JaggedArray/Jagged/Jagged/bin/Debug/net7.0/Jagged.deps.json
+/Volumes/lamviec/hoccode/C#/Array/JaggedArray/Jagged/Jagged/bin/Debug/net7.0/Jagged.runtimeconfig.json
+/Volumes/lamviec/hoccode/C#/Array/JaggedArray/Jagged/Jagged/bin/Debug/net7.0/Jagged.dll
+/Volumes/lamviec/hoccode/C#/Array/JaggedArray/Jagged/Jagged/bin/Debug/net7.0/Jagged.pdb
+/Volumes/lamviec/hoccode/C#/Array/JaggedArray/Jagged/Jagged/obj/Debug/net7.0/Jagged.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/lamviec/hoccode/C#/Array/JaggedArray/Jagged/Jagged/obj/Debug/net7.0/Jagged.AssemblyInfoInputs.cache
+/Volumes/lamviec/hoccode/C#/Array/JaggedArray/Jagged/Jagged/obj/Debug/net7.0/Jagged.AssemblyInfo.cs
+/Volumes/lamviec/hoccode/C#/Array/JaggedArray/Jagged/Jagged/obj/Debug/net7.0/Jagged.csproj.CoreCompileInputs.cache
+/Volumes/lamviec/hoccode/C#/Array/JaggedArray/Jagged/Jagged/obj/Debug/net7.0/Jagged.dll
+/Volumes/lamviec/hoccode/C#/Array/JaggedArray/Jagged/Jagged/obj/Debug/net7.0/refint/Jagged.dll
+/Volumes/lamviec/hoccode/C#/Array/JaggedArray/Jagged/Jagged/obj/Debug/net7.0/Jagged.pdb
+/Volumes/lamviec/hoccode/C#/Array/JaggedArray/Jagged/Jagged/obj/Debug/net7.0/Jagged.genruntimeconfig.cache
+/Volumes/lamviec/hoccode/C#/Array/JaggedArray/Jagged/Jagged/obj/Debug/net7.0/ref/Jagged.dll
