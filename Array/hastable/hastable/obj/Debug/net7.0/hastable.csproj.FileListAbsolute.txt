@@ -1,0 +1,14 @@
+/Volumes/lamviec/hoccode/C#/Array/hastable/hastable/bin/Debug/net7.0/hastable
+/Volumes/lamviec/hoccode/C#/Array/hastable/hastable/bin/Debug/net7.0/hastable.deps.json
+/Volumes/lamviec/hoccode/C#/Array/hastable/hastable/bin/Debug/net7.0/hastable.runtimeconfig.json
+/Volumes/lamviec/hoccode/C#/Array/hastable/hastable/bin/Debug/net7.0/hastable.dll
+/Volumes/lamviec/hoccode/C#/Array/hastable/hastable/bin/Debug/net7.0/hastable.pdb
+/Volumes/lamviec/hoccode/C#/Array/hastable/hastable/obj/Debug/net7.0/hastable.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/lamviec/hoccode/C#/Array/hastable/hastable/obj/Debug/net7.0/hastable.AssemblyInfoInputs.cache
+/Volumes/lamviec/hoccode/C#/Array/hastable/hastable/obj/Debug/net7.0/hastable.AssemblyInfo.cs
+/Volumes/lamviec/hoccode/C#/Array/hastable/hastable/obj/Debug/net7.0/hastable.csproj.CoreCompileInputs.cache
+/Volumes/lamviec/hoccode/C#/Array/hastable/hastable/obj/Debug/net7.0/hastable.dll
+/Volumes/lamviec/hoccode/C#/Array/hastable/hastable/obj/Debug/net7.0/refint/hastable.dll
+/Volumes/lamviec/hoccode/C#/Array/hastable/hastable/obj/Debug/net7.0/hastable.pdb
+/Volumes/lamviec/hoccode/C#/Array/hastable/hastable/obj/Debug/net7.0/hastable.genruntimeconfig.cache
+/Volumes/lamviec/hoccode/C#/Array/hastable/hastable/obj/Debug/net7.0/ref/hastable.dll

@@ -1,0 +1,14 @@
+/Volumes/lamviec/hoccode/C#/Array/ArrayListC/ArrayListC/bin/Debug/net7.0/ArrayListC
+/Volumes/lamviec/hoccode/C#/Array/ArrayListC/ArrayListC/bin/Debug/net7.0/ArrayListC.deps.json
+/Volumes/lamviec/hoccode/C#/Array/ArrayListC/ArrayListC/bin/Debug/net7.0/ArrayListC.runtimeconfig.json
+/Volumes/lamviec/hoccode/C#/Array/ArrayListC/ArrayListC/bin/Debug/net7.0/ArrayListC.dll
+/Volumes/lamviec/hoccode/C#/Array/ArrayListC/ArrayListC/bin/Debug/net7.0/ArrayListC.pdb
+/Volumes/lamviec/hoccode/C#/Array/ArrayListC/ArrayListC/obj/Debug/net7.0/ArrayListC.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/lamviec/hoccode/C#/Array/ArrayListC/ArrayListC/obj/Debug/net7.0/ArrayListC.AssemblyInfoInputs.cache
+/Volumes/lamviec/hoccode/C#/Array/ArrayListC/ArrayListC/obj/Debug/net7.0/ArrayListC.AssemblyInfo.cs
+/Volumes/lamviec/hoccode/C#/Array/ArrayListC/ArrayListC/obj/Debug/net7.0/ArrayListC.csproj.CoreCompileInputs.cache
+/Volumes/lamviec/hoccode/C#/Array/ArrayListC/ArrayListC/obj/Debug/net7.0/ArrayListC.dll
+/Volumes/lamviec/hoccode/C#/Array/ArrayListC/ArrayListC/obj/Debug/net7.0/refint/ArrayListC.dll
+/Volumes/lamviec/hoccode/C#/Array/ArrayListC/ArrayListC/obj/Debug/net7.0/ArrayListC.pdb
+/Volumes/lamviec/hoccode/C#/Array/ArrayListC/ArrayListC/obj/Debug/net7.0/ArrayListC.genruntimeconfig.cache
+/Volumes/lamviec/hoccode/C#/Array/ArrayListC/ArrayListC/obj/Debug/net7.0/ref/ArrayListC.dll

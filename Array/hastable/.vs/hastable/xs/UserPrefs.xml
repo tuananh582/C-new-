@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{633DF326-32DB-418C-8CE6-AE6825EFA652}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="hastable/Program.cs">
+    <Files>
+      <File FileName="hastable/Program.cs" Line="32" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.hastable PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

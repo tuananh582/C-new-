@@ -1,0 +1,14 @@
+/Volumes/lamviec/hoccode/C#/Array/hastableChallenge/hastableChallenge/bin/Debug/net7.0/hastableChallenge
+/Volumes/lamviec/hoccode/C#/Array/hastableChallenge/hastableChallenge/bin/Debug/net7.0/hastableChallenge.deps.json
+/Volumes/lamviec/hoccode/C#/Array/hastableChallenge/hastableChallenge/bin/Debug/net7.0/hastableChallenge.runtimeconfig.json
+/Volumes/lamviec/hoccode/C#/Array/hastableChallenge/hastableChallenge/bin/Debug/net7.0/hastableChallenge.dll
+/Volumes/lamviec/hoccode/C#/Array/hastableChallenge/hastableChallenge/bin/Debug/net7.0/hastableChallenge.pdb
+/Volumes/lamviec/hoccode/C#/Array/hastableChallenge/hastableChallenge/obj/Debug/net7.0/hastableChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/lamviec/hoccode/C#/Array/hastableChallenge/hastableChallenge/obj/Debug/net7.0/hastableChallenge.AssemblyInfoInputs.cache
+/Volumes/lamviec/hoccode/C#/Array/hastableChallenge/hastableChallenge/obj/Debug/net7.0/hastableChallenge.AssemblyInfo.cs
+/Volumes/lamviec/hoccode/C#/Array/hastableChallenge/hastableChallenge/obj/Debug/net7.0/hastableChallenge.csproj.CoreCompileInputs.cache
+/Volumes/lamviec/hoccode/C#/Array/hastableChallenge/hastableChallenge/obj/Debug/net7.0/hastableChallenge.dll
+/Volumes/lamviec/hoccode/C#/Array/hastableChallenge/hastableChallenge/obj/Debug/net7.0/refint/hastableChallenge.dll
+/Volumes/lamviec/hoccode/C#/Array/hastableChallenge/hastableChallenge/obj/Debug/net7.0/hastableChallenge.pdb
+/Volumes/lamviec/hoccode/C#/Array/hastableChallenge/hastableChallenge/obj/Debug/net7.0/hastableChallenge.genruntimeconfig.cache
+/Volumes/lamviec/hoccode/C#/Array/hastableChallenge/hastableChallenge/obj/Debug/net7.0/ref/hastableChallenge.dll

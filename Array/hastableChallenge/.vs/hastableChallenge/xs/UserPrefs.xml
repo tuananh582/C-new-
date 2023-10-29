@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{6F7990CF-05EC-45F4-8F51-83158B7F5874}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="hastableChallenge/Program.cs">
+    <Files>
+      <File FileName="hastableChallenge/Program.cs" Line="21" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.hastableChallenge PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

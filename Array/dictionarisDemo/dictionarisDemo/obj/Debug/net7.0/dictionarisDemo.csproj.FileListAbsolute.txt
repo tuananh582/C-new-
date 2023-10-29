@@ -1,0 +1,14 @@
+/Volumes/lamviec/hoccode/C#/Array/dictionarisDemo/dictionarisDemo/bin/Debug/net7.0/dictionarisDemo
+/Volumes/lamviec/hoccode/C#/Array/dictionarisDemo/dictionarisDemo/bin/Debug/net7.0/dictionarisDemo.deps.json
+/Volumes/lamviec/hoccode/C#/Array/dictionarisDemo/dictionarisDemo/bin/Debug/net7.0/dictionarisDemo.runtimeconfig.json
+/Volumes/lamviec/hoccode/C#/Array/dictionarisDemo/dictionarisDemo/bin/Debug/net7.0/dictionarisDemo.dll
+/Volumes/lamviec/hoccode/C#/Array/dictionarisDemo/dictionarisDemo/bin/Debug/net7.0/dictionarisDemo.pdb
+/Volumes/lamviec/hoccode/C#/Array/dictionarisDemo/dictionarisDemo/obj/Debug/net7.0/dictionarisDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/lamviec/hoccode/C#/Array/dictionarisDemo/dictionarisDemo/obj/Debug/net7.0/dictionarisDemo.AssemblyInfoInputs.cache
+/Volumes/lamviec/hoccode/C#/Array/dictionarisDemo/dictionarisDemo/obj/Debug/net7.0/dictionarisDemo.AssemblyInfo.cs
+/Volumes/lamviec/hoccode/C#/Array/dictionarisDemo/dictionarisDemo/obj/Debug/net7.0/dictionarisDemo.csproj.CoreCompileInputs.cache
+/Volumes/lamviec/hoccode/C#/Array/dictionarisDemo/dictionarisDemo/obj/Debug/net7.0/dictionarisDemo.dll
+/Volumes/lamviec/hoccode/C#/Array/dictionarisDemo/dictionarisDemo/obj/Debug/net7.0/refint/dictionarisDemo.dll
+/Volumes/lamviec/hoccode/C#/Array/dictionarisDemo/dictionarisDemo/obj/Debug/net7.0/dictionarisDemo.pdb
+/Volumes/lamviec/hoccode/C#/Array/dictionarisDemo/dictionarisDemo/obj/Debug/net7.0/dictionarisDemo.genruntimeconfig.cache
+/Volumes/lamviec/hoccode/C#/Array/dictionarisDemo/dictionarisDemo/obj/Debug/net7.0/ref/dictionarisDemo.dll

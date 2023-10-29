@@ -1,0 +1,14 @@
+/Volumes/lamviec/hoccode/C#/Array/ListC/ListC/bin/Debug/net7.0/ListC
+/Volumes/lamviec/hoccode/C#/Array/ListC/ListC/bin/Debug/net7.0/ListC.deps.json
+/Volumes/lamviec/hoccode/C#/Array/ListC/ListC/bin/Debug/net7.0/ListC.runtimeconfig.json
+/Volumes/lamviec/hoccode/C#/Array/ListC/ListC/bin/Debug/net7.0/ListC.dll
+/Volumes/lamviec/hoccode/C#/Array/ListC/ListC/bin/Debug/net7.0/ListC.pdb
+/Volumes/lamviec/hoccode/C#/Array/ListC/ListC/obj/Debug/net7.0/ListC.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/lamviec/hoccode/C#/Array/ListC/ListC/obj/Debug/net7.0/ListC.AssemblyInfoInputs.cache
+/Volumes/lamviec/hoccode/C#/Array/ListC/ListC/obj/Debug/net7.0/ListC.AssemblyInfo.cs
+/Volumes/lamviec/hoccode/C#/Array/ListC/ListC/obj/Debug/net7.0/ListC.csproj.CoreCompileInputs.cache
+/Volumes/lamviec/hoccode/C#/Array/ListC/ListC/obj/Debug/net7.0/ListC.dll
+/Volumes/lamviec/hoccode/C#/Array/ListC/ListC/obj/Debug/net7.0/refint/ListC.dll
+/Volumes/lamviec/hoccode/C#/Array/ListC/ListC/obj/Debug/net7.0/ListC.pdb
+/Volumes/lamviec/hoccode/C#/Array/ListC/ListC/obj/Debug/net7.0/ListC.genruntimeconfig.cache
+/Volumes/lamviec/hoccode/C#/Array/ListC/ListC/obj/Debug/net7.0/ref/ListC.dll
