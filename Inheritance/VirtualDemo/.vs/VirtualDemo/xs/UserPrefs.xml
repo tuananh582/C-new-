@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{3C698887-72D0-488C-9F77-F6FACA36BB0D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VirtualDemo/Dog.cs">
+    <Files>
+      <File FileName="VirtualDemo/Program.cs" Line="12" Column="23" />
+      <File FileName="VirtualDemo/Animals.cs" Line="10" Column="28" />
+      <File FileName="VirtualDemo/Dog.cs" Line="19" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VirtualDemo" expanded="True">
+            <Node name="VirtualDemo">
+              <Node name="Dog.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.VirtualDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

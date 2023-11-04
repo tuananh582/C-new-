@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Volumes/lamviec/hoccode/C#/Inheritance/VirtualDemo/VirtualDemo/VirtualDemo.csproj": {}
+  },
+  "projects": {
+    "/Volumes/lamviec/hoccode/C#/Inheritance/VirtualDemo/VirtualDemo/VirtualDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/lamviec/hoccode/C#/Inheritance/VirtualDemo/VirtualDemo/VirtualDemo.csproj",
+        "projectName": "VirtualDemo",
+        "projectPath": "/Volumes/lamviec/hoccode/C#/Inheritance/VirtualDemo/VirtualDemo/VirtualDemo.csproj",
+        "packagesPath": "/Users/tuananh/.nuget/packages/",
+        "outputPath": "/Volumes/lamviec/hoccode/C#/Inheritance/VirtualDemo/VirtualDemo/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tuananh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

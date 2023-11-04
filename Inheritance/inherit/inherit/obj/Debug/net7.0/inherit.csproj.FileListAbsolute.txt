@@ -1,0 +1,14 @@
+/Volumes/lamviec/hoccode/C#/Inheritance/inherit/inherit/bin/Debug/net7.0/inherit
+/Volumes/lamviec/hoccode/C#/Inheritance/inherit/inherit/bin/Debug/net7.0/inherit.deps.json
+/Volumes/lamviec/hoccode/C#/Inheritance/inherit/inherit/bin/Debug/net7.0/inherit.runtimeconfig.json
+/Volumes/lamviec/hoccode/C#/Inheritance/inherit/inherit/bin/Debug/net7.0/inherit.dll
+/Volumes/lamviec/hoccode/C#/Inheritance/inherit/inherit/bin/Debug/net7.0/inherit.pdb
+/Volumes/lamviec/hoccode/C#/Inheritance/inherit/inherit/obj/Debug/net7.0/inherit.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/lamviec/hoccode/C#/Inheritance/inherit/inherit/obj/Debug/net7.0/inherit.AssemblyInfoInputs.cache
+/Volumes/lamviec/hoccode/C#/Inheritance/inherit/inherit/obj/Debug/net7.0/inherit.AssemblyInfo.cs
+/Volumes/lamviec/hoccode/C#/Inheritance/inherit/inherit/obj/Debug/net7.0/inherit.csproj.CoreCompileInputs.cache
+/Volumes/lamviec/hoccode/C#/Inheritance/inherit/inherit/obj/Debug/net7.0/inherit.dll
+/Volumes/lamviec/hoccode/C#/Inheritance/inherit/inherit/obj/Debug/net7.0/refint/inherit.dll
+/Volumes/lamviec/hoccode/C#/Inheritance/inherit/inherit/obj/Debug/net7.0/inherit.pdb
+/Volumes/lamviec/hoccode/C#/Inheritance/inherit/inherit/obj/Debug/net7.0/inherit.genruntimeconfig.cache
+/Volumes/lamviec/hoccode/C#/Inheritance/inherit/inherit/obj/Debug/net7.0/ref/inherit.dll

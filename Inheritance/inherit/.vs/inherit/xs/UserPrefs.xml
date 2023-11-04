@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{E2B9A8DC-4B12-4493-97ED-3D1582991CC0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="inherit/Program.cs">
+    <Files>
+      <File FileName="inherit/Program.cs" Line="19" Column="1" />
+      <File FileName="inherit/Radio.cs" Line="10" Column="4" />
+      <File FileName="inherit/Tv.cs" Line="9" Column="10" />
+      <File FileName="inherit/ElectricalDevice.cs" Line="21" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="inherit" expanded="True">
+            <Node name="inherit">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.inherit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

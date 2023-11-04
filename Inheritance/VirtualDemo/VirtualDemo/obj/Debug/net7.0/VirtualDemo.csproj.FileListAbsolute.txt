@@ -1,0 +1,14 @@
+/Volumes/lamviec/hoccode/C#/Inheritance/VirtualDemo/VirtualDemo/bin/Debug/net7.0/VirtualDemo
+/Volumes/lamviec/hoccode/C#/Inheritance/VirtualDemo/VirtualDemo/bin/Debug/net7.0/VirtualDemo.deps.json
+/Volumes/lamviec/hoccode/C#/Inheritance/VirtualDemo/VirtualDemo/bin/Debug/net7.0/VirtualDemo.runtimeconfig.json
+/Volumes/lamviec/hoccode/C#/Inheritance/VirtualDemo/VirtualDemo/bin/Debug/net7.0/VirtualDemo.dll
+/Volumes/lamviec/hoccode/C#/Inheritance/VirtualDemo/VirtualDemo/bin/Debug/net7.0/VirtualDemo.pdb
+/Volumes/lamviec/hoccode/C#/Inheritance/VirtualDemo/VirtualDemo/obj/Debug/net7.0/VirtualDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/lamviec/hoccode/C#/Inheritance/VirtualDemo/VirtualDemo/obj/Debug/net7.0/VirtualDemo.AssemblyInfoInputs.cache
+/Volumes/lamviec/hoccode/C#/Inheritance/VirtualDemo/VirtualDemo/obj/Debug/net7.0/VirtualDemo.AssemblyInfo.cs
+/Volumes/lamviec/hoccode/C#/Inheritance/VirtualDemo/VirtualDemo/obj/Debug/net7.0/VirtualDemo.csproj.CoreCompileInputs.cache
+/Volumes/lamviec/hoccode/C#/Inheritance/VirtualDemo/VirtualDemo/obj/Debug/net7.0/VirtualDemo.dll
+/Volumes/lamviec/hoccode/C#/Inheritance/VirtualDemo/VirtualDemo/obj/Debug/net7.0/refint/VirtualDemo.dll
+/Volumes/lamviec/hoccode/C#/Inheritance/VirtualDemo/VirtualDemo/obj/Debug/net7.0/VirtualDemo.pdb
+/Volumes/lamviec/hoccode/C#/Inheritance/VirtualDemo/VirtualDemo/obj/Debug/net7.0/VirtualDemo.genruntimeconfig.cache
+/Volumes/lamviec/hoccode/C#/Inheritance/VirtualDemo/VirtualDemo/obj/Debug/net7.0/ref/VirtualDemo.dll
