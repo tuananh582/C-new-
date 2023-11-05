@@ -1,0 +1,14 @@
+/Volumes/lamviec/hoccode/C#/TimerCallBackDm/TimerCallBackDm/bin/Debug/net7.0/TimerCallBackDm
+/Volumes/lamviec/hoccode/C#/TimerCallBackDm/TimerCallBackDm/bin/Debug/net7.0/TimerCallBackDm.deps.json
+/Volumes/lamviec/hoccode/C#/TimerCallBackDm/TimerCallBackDm/bin/Debug/net7.0/TimerCallBackDm.runtimeconfig.json
+/Volumes/lamviec/hoccode/C#/TimerCallBackDm/TimerCallBackDm/bin/Debug/net7.0/TimerCallBackDm.dll
+/Volumes/lamviec/hoccode/C#/TimerCallBackDm/TimerCallBackDm/bin/Debug/net7.0/TimerCallBackDm.pdb
+/Volumes/lamviec/hoccode/C#/TimerCallBackDm/TimerCallBackDm/obj/Debug/net7.0/TimerCallBackDm.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/lamviec/hoccode/C#/TimerCallBackDm/TimerCallBackDm/obj/Debug/net7.0/TimerCallBackDm.AssemblyInfoInputs.cache
+/Volumes/lamviec/hoccode/C#/TimerCallBackDm/TimerCallBackDm/obj/Debug/net7.0/TimerCallBackDm.AssemblyInfo.cs
+/Volumes/lamviec/hoccode/C#/TimerCallBackDm/TimerCallBackDm/obj/Debug/net7.0/TimerCallBackDm.csproj.CoreCompileInputs.cache
+/Volumes/lamviec/hoccode/C#/TimerCallBackDm/TimerCallBackDm/obj/Debug/net7.0/TimerCallBackDm.dll
+/Volumes/lamviec/hoccode/C#/TimerCallBackDm/TimerCallBackDm/obj/Debug/net7.0/refint/TimerCallBackDm.dll
+/Volumes/lamviec/hoccode/C#/TimerCallBackDm/TimerCallBackDm/obj/Debug/net7.0/TimerCallBackDm.pdb
+/Volumes/lamviec/hoccode/C#/TimerCallBackDm/TimerCallBackDm/obj/Debug/net7.0/TimerCallBackDm.genruntimeconfig.cache
+/Volumes/lamviec/hoccode/C#/TimerCallBackDm/TimerCallBackDm/obj/Debug/net7.0/ref/TimerCallBackDm.dll

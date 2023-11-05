@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerCallBackDm", "TimerCallBackDm\TimerCallBackDm.csproj", "{6911031E-F9F2-4A99-9883-AAA58198433E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6911031E-F9F2-4A99-9883-AAA58198433E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6911031E-F9F2-4A99-9883-AAA58198433E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6911031E-F9F2-4A99-9883-AAA58198433E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6911031E-F9F2-4A99-9883-AAA58198433E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D4A7703-23CF-46E9-A448-5EEDB6BF1979}
+	EndGlobalSection
+EndGlobal
