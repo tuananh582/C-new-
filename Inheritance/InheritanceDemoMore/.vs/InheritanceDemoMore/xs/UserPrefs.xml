@@ -1,17 +1,14 @@
 ﻿<Properties StartupConfiguration="{4CED5AA9-053E-4F98-848D-39EFC83D9D70}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="InheritanceDemoMore/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InheritanceDemoMore/VideoPost.cs">
     <Files>
-      <File FileName="InheritanceDemoMore/Program.cs" Line="15" Column="1" />
+      <File FileName="InheritanceDemoMore/Program.cs" Line="15" Column="63" />
+      <File FileName="InheritanceDemoMore/Post.cs" Line="41" Column="95" />
+      <File FileName="InheritanceDemoMore/ImagePost.cs" Line="1" Column="1" />
+      <File FileName="InheritanceDemoMore/VideoPost.cs" Line="56" Column="26" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="InheritanceDemoMore" expanded="True">
-            <Node name="InheritanceDemoMore">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
+        <State name="__root__" />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

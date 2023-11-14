@@ -1,0 +1,14 @@
+/Volumes/lamviec/hoccode/C#/Inheritance/InheritanceChallenge2/InheritanceChallenge2/bin/Debug/net7.0/InheritanceChallenge2
+/Volumes/lamviec/hoccode/C#/Inheritance/InheritanceChallenge2/InheritanceChallenge2/bin/Debug/net7.0/InheritanceChallenge2.deps.json
+/Volumes/lamviec/hoccode/C#/Inheritance/InheritanceChallenge2/InheritanceChallenge2/bin/Debug/net7.0/InheritanceChallenge2.runtimeconfig.json
+/Volumes/lamviec/hoccode/C#/Inheritance/InheritanceChallenge2/InheritanceChallenge2/bin/Debug/net7.0/InheritanceChallenge2.dll
+/Volumes/lamviec/hoccode/C#/Inheritance/InheritanceChallenge2/InheritanceChallenge2/bin/Debug/net7.0/InheritanceChallenge2.pdb
+/Volumes/lamviec/hoccode/C#/Inheritance/InheritanceChallenge2/InheritanceChallenge2/obj/Debug/net7.0/InheritanceChallenge2.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/lamviec/hoccode/C#/Inheritance/InheritanceChallenge2/InheritanceChallenge2/obj/Debug/net7.0/InheritanceChallenge2.AssemblyInfoInputs.cache
+/Volumes/lamviec/hoccode/C#/Inheritance/InheritanceChallenge2/InheritanceChallenge2/obj/Debug/net7.0/InheritanceChallenge2.AssemblyInfo.cs
+/Volumes/lamviec/hoccode/C#/Inheritance/InheritanceChallenge2/InheritanceChallenge2/obj/Debug/net7.0/InheritanceChallenge2.csproj.CoreCompileInputs.cache
+/Volumes/lamviec/hoccode/C#/Inheritance/InheritanceChallenge2/InheritanceChallenge2/obj/Debug/net7.0/InheritanceChallenge2.dll
+/Volumes/lamviec/hoccode/C#/Inheritance/InheritanceChallenge2/InheritanceChallenge2/obj/Debug/net7.0/refint/InheritanceChallenge2.dll
+/Volumes/lamviec/hoccode/C#/Inheritance/InheritanceChallenge2/InheritanceChallenge2/obj/Debug/net7.0/InheritanceChallenge2.pdb
+/Volumes/lamviec/hoccode/C#/Inheritance/InheritanceChallenge2/InheritanceChallenge2/obj/Debug/net7.0/InheritanceChallenge2.genruntimeconfig.cache
+/Volumes/lamviec/hoccode/C#/Inheritance/InheritanceChallenge2/InheritanceChallenge2/obj/Debug/net7.0/ref/InheritanceChallenge2.dll

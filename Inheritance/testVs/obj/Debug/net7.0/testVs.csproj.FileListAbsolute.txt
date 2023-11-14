@@ -1,0 +1,14 @@
+/Volumes/lamviec/hoccode/C#/Inheritance/testVs/bin/Debug/net7.0/testVs
+/Volumes/lamviec/hoccode/C#/Inheritance/testVs/bin/Debug/net7.0/testVs.deps.json
+/Volumes/lamviec/hoccode/C#/Inheritance/testVs/bin/Debug/net7.0/testVs.runtimeconfig.json
+/Volumes/lamviec/hoccode/C#/Inheritance/testVs/bin/Debug/net7.0/testVs.dll
+/Volumes/lamviec/hoccode/C#/Inheritance/testVs/bin/Debug/net7.0/testVs.pdb
+/Volumes/lamviec/hoccode/C#/Inheritance/testVs/obj/Debug/net7.0/testVs.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/lamviec/hoccode/C#/Inheritance/testVs/obj/Debug/net7.0/testVs.AssemblyInfoInputs.cache
+/Volumes/lamviec/hoccode/C#/Inheritance/testVs/obj/Debug/net7.0/testVs.AssemblyInfo.cs
+/Volumes/lamviec/hoccode/C#/Inheritance/testVs/obj/Debug/net7.0/testVs.csproj.CoreCompileInputs.cache
+/Volumes/lamviec/hoccode/C#/Inheritance/testVs/obj/Debug/net7.0/testVs.dll
+/Volumes/lamviec/hoccode/C#/Inheritance/testVs/obj/Debug/net7.0/refint/testVs.dll
+/Volumes/lamviec/hoccode/C#/Inheritance/testVs/obj/Debug/net7.0/testVs.pdb
+/Volumes/lamviec/hoccode/C#/Inheritance/testVs/obj/Debug/net7.0/testVs.genruntimeconfig.cache
+/Volumes/lamviec/hoccode/C#/Inheritance/testVs/obj/Debug/net7.0/ref/testVs.dll

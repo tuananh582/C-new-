@@ -1,0 +1,14 @@
+/Volumes/lamviec/hoccode/C#/Inheritance/testlai/bin/Debug/net7.0/testlai
+/Volumes/lamviec/hoccode/C#/Inheritance/testlai/bin/Debug/net7.0/testlai.deps.json
+/Volumes/lamviec/hoccode/C#/Inheritance/testlai/bin/Debug/net7.0/testlai.runtimeconfig.json
+/Volumes/lamviec/hoccode/C#/Inheritance/testlai/bin/Debug/net7.0/testlai.dll
+/Volumes/lamviec/hoccode/C#/Inheritance/testlai/bin/Debug/net7.0/testlai.pdb
+/Volumes/lamviec/hoccode/C#/Inheritance/testlai/obj/Debug/net7.0/testlai.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/lamviec/hoccode/C#/Inheritance/testlai/obj/Debug/net7.0/testlai.AssemblyInfoInputs.cache
+/Volumes/lamviec/hoccode/C#/Inheritance/testlai/obj/Debug/net7.0/testlai.AssemblyInfo.cs
+/Volumes/lamviec/hoccode/C#/Inheritance/testlai/obj/Debug/net7.0/testlai.csproj.CoreCompileInputs.cache
+/Volumes/lamviec/hoccode/C#/Inheritance/testlai/obj/Debug/net7.0/testlai.dll
+/Volumes/lamviec/hoccode/C#/Inheritance/testlai/obj/Debug/net7.0/refint/testlai.dll
+/Volumes/lamviec/hoccode/C#/Inheritance/testlai/obj/Debug/net7.0/testlai.pdb
+/Volumes/lamviec/hoccode/C#/Inheritance/testlai/obj/Debug/net7.0/testlai.genruntimeconfig.cache
+/Volumes/lamviec/hoccode/C#/Inheritance/testlai/obj/Debug/net7.0/ref/testlai.dll
